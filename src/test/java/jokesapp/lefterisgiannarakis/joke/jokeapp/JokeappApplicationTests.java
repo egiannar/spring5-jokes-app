@@ -1,4 +1,4 @@
-package guru.akinogrence.joke.jokeapp;
+package jokesapp.lefterisgiannarakis.joke.jokeapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

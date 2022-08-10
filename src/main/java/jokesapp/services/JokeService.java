@@ -1,6 +1,7 @@
-package guru.akinogrence.joke.jokeapp.services;
+package jokesapp.services;
 
 public interface JokeService {
 
     String getJoke();
+
 }
